@@ -1,0 +1,17 @@
+*/out/
+
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore compiled binary executables
+*.exe
+*.out
+*.app
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Ignore core dumps (common on Linux/macOS)
+core
