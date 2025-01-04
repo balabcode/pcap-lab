@@ -1,0 +1,6 @@
+Lab Exercises:
+    Write a simple MPI program to find out pow (x, rank) for all the processes where 'x' is the integer constant and 'rank' is the rank of the process.
+    Write a program in MPI where even ranked process prints "Hello", and odd ranked process prints "World".
+    Write a program in MPI to simulate simple calculator. Perform each operation using different process in parallel.
+    Write a program in MPI to toggle the character of a given string indexed by the rank of the process. Hint: Suppose the string is HELLO and there are 5 processes, then process 0 toggle 'H' to 'h', process 1 toggle 'E' to 'e' and so on.
+    Write a program in MPI where even ranked process prints factorial of the rank and odd ranked process prints ranks Fibonacci number.
